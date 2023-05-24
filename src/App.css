@@ -1,0 +1,220 @@
+marquee{
+  background-color:transparent;
+  text-decoration-color: aliceblue;
+  color: white;
+}
+
+.Top{
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+  background-color: black;
+}
+.navbar-brand img{
+  width: 300%;
+  height: 30px;
+}
+
+.Nav1  {
+  overflow: hidden;
+  background-color: black;
+  padding: 20px 10px;
+  align-content: center;
+}
+
+#navbarNavAltMarkup{
+  display: flex;
+  justify-content: flex-end;
+}
+.header  {
+  color: rgb(236, 229, 229);
+  line-height: 25px;
+  width: 100%;
+  background:transparent;
+  display: flex;
+  justify-content: flex-start;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+
+}
+body{
+  
+  height: 700px;
+}
+#renu{
+  background: no-repeat; 
+}
+.Nav1{
+  text-align: center;
+ font-style: bold;
+ letter-spacing: 5px;
+  text-decoration: none;
+  font-size: 28px; 
+  color: rgb(236, 229, 229); 
+}
+.nav-link{
+  margin-left: 40px;
+}
+.text{
+  color: white;
+}
+.container-fluid{
+  padding-top: 19px;
+  width: 70vw;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+}
+.container-fluid{
+  position: relative;
+  text-decoration: none;
+  color: rgb(14, 4, 4);
+  font-size: 18px;
+  padding: 0 20px;
+  cursor: pointer; 
+}
+
+.hero {
+  height: 100%;
+  width: 100%;
+  background: url('https://upload.wikimedia.org/wikipedia/commons/a/a2/Hussain_Sagar%2C_Buddha_statue_in_pink_color_lighting.jpg '  );
+  background-size: cover;
+}
+
+.overlay {
+  
+  top: 50px;
+  left: 40px;
+  width: 100%;
+  height: 100%;
+  color: white;
+  padding-left: 400px;
+  padding-top: 100px;}
+ 
+ .homee{
+  text-decoration-color: rgb(245, 195, 228);
+  padding-top: 150px;
+  color: rgb(219, 224, 238);
+  font-size: x-large;
+  word-spacing: 0%;
+
+  margin-left: 35px;
+ 
+ }
+ .texting{
+  color:white;
+  padding-top: -80px;
+  top: 109px;
+  padding-left: 899px;
+
+ }
+
+/* History page css pattern */
+
+  .wrap{padding: 60px;
+  font-family: 'Times New Roman', Times, serif; }
+
+.history{
+  color:aliceblue ;
+}
+
+.h1{
+  color: white;
+}
+
+.history{
+font-size: x-large;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.col-md-7{margin-left: 40px;}
+.col-md-4{margin-left: 50px;}
+
+
+/* places css part */
+/* 
+.places{
+  font-size: larger;
+  padding: 30px;
+  font-style: normal;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+} */
+
+
+    
+/* 
+    place page css part */
+.container h1{
+  color: white;
+  word-spacing: 0%;
+}
+
+#caption{
+  color: rgb(71, 50, 9);
+  padding: 30px;
+  word-spacing: 10px;
+  letter-spacing: 0;
+  
+}
+#captions{
+  padding: 30px;
+  color: rgb(83, 51, 12);
+}
+.row{
+  width: auto;
+  height: auto;
+
+}
+ body{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ 
+  .card{
+    width: 21rem;
+    padding: 20px;
+    margin-top: 30px;
+    margin-left: 70px;
+
+  }
+  .card img{
+    height: 400px;
+
+  }
+  .col p {
+  font-size: larger;
+  }   
+ 
+ .first{
+  float: left;
+  margin-left: 130px;
+  height: 600px;
+ }
+ .first img{
+  height: 300px;
+ }
+
+   /* carosel background image */
+ .carousel{
+background-image: url("https://png.pngtree.com/background/20210710/original/pngtree-rainwater-rainy-season-traditional-solar-terms-twenty-four-solar-terms-picture-image_975711.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: auto;
+padding-bottom: 20px;
+ }
+  /* title of temple css part */
+.carousel h1{
+  color: rgb(89, 121, 111);
+  font-style: initial;
+}
+.fa-gopuram{
+  color: orange;
+}
+.fa-church{
+  color: rgb(114, 105, 105);
+}
